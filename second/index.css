@@ -10,3 +10,11 @@
   background-color: green;
   display: inline-block;
 }
+
+.circle {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  background-color: skyblue;
+  display: inline-block;
+}
