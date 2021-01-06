@@ -32,3 +32,12 @@
   height: 200px;
   background-color: yellow;
 }
+
+.container-3 {
+  width: 50%;
+  border: 1px solid #ccc;
+  background-color: white;
+  padding: 100px;
+  box-sizing: border-box;
+  margin: 25px auto;
+}
