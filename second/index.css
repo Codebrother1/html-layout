@@ -4,3 +4,9 @@
   background-color: blueviolet;
   display: inline-block;
 }
+.square-2 {
+  height: 200px;
+  width: 300px;
+  background-color: green;
+  display: inline-block;
+}
