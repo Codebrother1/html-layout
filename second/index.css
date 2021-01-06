@@ -18,3 +18,11 @@
   background-color: skyblue;
   display: inline-block;
 }
+
+.container-2 {
+  width: 100%;
+  border: 5px dotted black;
+  padding: 50px;
+  box-sizing: border-box;
+  margin-top: 25px;
+}
